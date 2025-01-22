@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Odd
+  - Even
+  - InstanceBlueprint
+  - Book
+  - Reel1Slot0
+  - Reel1Slot1
+  - Reel1Slot2
+  - Reel2Slot0
+  - Reel2Slot1
+  - Reel2Slot2
+  - Reel3Slot0
+  - Reel3Slot1
+  - Reel3Slot2
+  - Reel4Slot0
+  - Reel4Slot1
+  - Reel4Slot2
+  - Reel5Slot0
+  - Reel5Slot1
+  - Reel5Slot2
+  - Reel1Instance1
+  - Reel1Instance2
+  - Reel1Instance3
+  - Reel1Instance4
+  - Reel1Instance5
+  - Reel1Instance6
+  - Reel1Instance7
+  - Reel2Instance1
+  - Reel2Instance2
+  - Reel2Instance3
+  - Reel2Instance4
+  - Reel2Instance5
+  - Reel2Instance6
+  - Reel2Instance7
+  - Reel3Instance1
+  - Reel3Instance2
+  - Reel3Instance3
+  - Reel3Instance4
+  - Reel3Instance5
+  - Reel3Instance6
+  - Reel3Instance7
+  - Reel4Instance1
+  - Reel4Instance2
+  - Reel4Instance3
+  - Reel4Instance4
+  - Reel4Instance5
+  - Reel4Instance6
+  - Reel4Instance7
+  - Reel5Instance1
+  - Reel5Instance2
+  - Reel5Instance3
+  - Reel5Instance4
+  - Reel5Instance5
+  - Reel5Instance6
+  - Reel5Instance7
+  - winIndicator
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Track
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4214436085
+    locked: 0
+  - name: Rocks
+    uniqueID: 3524863791
+    locked: 0
+  - name: Plants
+    uniqueID: 2136660213
+    locked: 0
+  - name: Numbers
+    uniqueID: 136148913
+    locked: 0
+  - name: Floor
+    uniqueID: 1400267247
+    locked: 0
+  - name: Player (Fish)
+    uniqueID: 4220627333
+    locked: 0
+  - name: Track
+    uniqueID: 3615636295
+    locked: 0
+  - name: Props
+    uniqueID: 985321847
+    locked: 0
+  - name: Car
+    uniqueID: 464891771
+    locked: 0
+  - name: Hud
+    uniqueID: 3903861307
+    locked: 0
+  - name: Slots
+    uniqueID: 627193541
+    locked: 0
+  - name: ReelGrid
+    uniqueID: 1408467523
+    locked: 0
+  - name: winIndicator
+    uniqueID: 573349029
+    locked: 0
